@@ -1,0 +1,14 @@
+{
+  "name": "styled-components",
+  "version": "1.0.0",
+  "description": "Copied source from https://github.com/styled-components/styled-components#basic.",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "react": "16.7.0",
+    "react-addons-css-transition-group": "15.6.2",
+    "react-animated-css": "1.0.4",
+    "react-dom": "16.7.0",
+    "styled-components": "2.1.0"
+  }
+}
